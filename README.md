@@ -1,4 +1,4 @@
-![my pfp](./assets/images/profile.png)
+<img style="width: 200px;" alt="pfp" src="./assets/images/profile.png">
 
 ### Summary
 
@@ -27,9 +27,11 @@ Hi! It's me, Norman Andriansyah aka Norman Andrians. a self-taught 16yo Develope
 
 ### Qoutes
 
-> ## _***"Terlalu spesialnya kebutuhanmu sampai aku rela menjadi babumu, anying well aing asup zona matrix🤡️💀️"***_
+> ## _***"Terlalu spesialnya kebutuhanmu sampai aku rela menjadi babumu, anying well aing asup ka zona matrix🤡️💀️"***_
 
-![dancing lain](./assets/images/lain-dancing.gif)
-![osaka](./assets/images/osaka.gif)
+<img style="width: 300px;" alt="dancin lain" src="./assets/images/lain-dancing.gif">
+<img style="width: 300px;" alt="dancin lain" src="./assets/images/osaka.gif">
+
+apologize if there is any text that is less pleasing
 
 follow my [twitter](https://twitter.com/NormanAndrians), i'm always active there

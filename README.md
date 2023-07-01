@@ -1,6 +1,6 @@
-<div style="float: left;"><img style="width: 200px; height: 200px;" alt="Norman Andrians" src="https://normanandrians.com/assets/image/author/author-oc.png"></div>
+<div style="float: left;"><img style="width: 200px; height: 200px;" alt="Norman Andrians" src="./assets/images/profile.png"></div>
 <div>
-HI, My name is Norman Andrians,
+HI! My name is Norman Andrians,
 I am a 15 year old developer and artist, i study game development, app, web, and also i study about drawing art
 like anime, landscape, and painting. not only that I also study 3d models and 3d animation. 
 

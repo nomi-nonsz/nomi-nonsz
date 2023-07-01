@@ -29,8 +29,10 @@ Hi! It's me, Norman Andriansyah aka Norman Andrians. a self-taught 16yo Develope
 
 > ## _***"Terlalu spesialnya kebutuhanmu sampai aku rela menjadi babumu, anying well aing asup ka zona matrix🤡️💀️"***_
 
-<img style="width: 300px;" alt="dancin lain" src="./assets/images/lain-dancing.gif">
-<img style="width: 300px;" alt="dancin lain" src="./assets/images/osaka.gif">
+<div style="display: flex;">
+  <img style="width: 300px;" alt="dancin lain" src="./assets/images/lain-dancing.gif">
+  <img style="width: 300px;" alt="dancin lain" src="./assets/images/osaka.gif">
+</div>
 
 apologize if there is any text that is less pleasing
 

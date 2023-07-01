@@ -17,7 +17,7 @@ Hi! It's me, Norman Andriansyah aka Norman Andrians. a self-taught 16yo Develope
 - 🎧️ i love phonk music
 - 💀️ i love goofy cringe ahh memes
 - ❤️ i love lain (anime character)
-- 💅️ Azumanga Daioh, Kimetsu No Yaiba, and Serial Experiment Lain is my favourite anime
+- 💅️ Azumanga Daioh, Kimetsu No Yaiba, and Serial Experiment Lain are my favorite anime
 
 ### Desire
 
@@ -25,7 +25,7 @@ Hi! It's me, Norman Andriansyah aka Norman Andrians. a self-taught 16yo Develope
 - redeveloping a modern UI
 - idk, and allat are just empty actions
 
-### Qoutes
+### Quotes
 
 > ## _***"Terlalu spesialnya kebutuhanmu sampai aku rela menjadi babumu, anying well aing asup ka zona matrix🤡️💀️"***_
 

@@ -1,4 +1,4 @@
-<img style="width: 200px;" alt="pfp" src="./assets/images/profile.png">
+<img style="width: 100%;" alt="pfp" src="./assets/images/banner.png">
 
 ### Summary
 

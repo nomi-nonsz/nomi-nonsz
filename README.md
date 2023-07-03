@@ -33,9 +33,9 @@ Hi! It's me, Norman Andriansyah aka Norman Andrians. a self-taught 16yo Develope
 > ## _***"Tired because you simp? Revenge it, make them also more simp than you.."***_
 
 <div style="display: flex; max-width: 100%;">
-  <img style="width: 150px;" alt="dancin lain" src="./assets/images/lain-dancing.gif">
-  <img style="width: 150px" alt="osaka" src="./assets/images/osaka.gif">
-  <img style="width: 150px" alt="osaka daily life" src="./assets/images/osaka2.gif">
+  <img style="width: 200px;" alt="dancin lain" src="./assets/images/lain-dancing.gif">
+  <img style="width: 200px" alt="osaka" src="./assets/images/osaka.gif">
+  <img style="width: 200px" alt="osaka daily life" src="./assets/images/osaka2.gif">
 </div>
 
 ---

@@ -1,4 +1,4 @@
-<img style="width: 100%;" alt="pfp" src="./assets/images/banner.png">
+<img style="width: 100%;" alt="pfp" src="./assets/images/banner2.png">
 
 ---
 

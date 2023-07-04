@@ -1,0 +1,96 @@
+{
+    "identity": {
+        "name": "Norman Andrians",
+        "first name": "Norman",
+        "last name": "Andriansyah",
+        "fullname": "Norman Andrianysah",
+        "gender": "male",
+        "pronouns": "He/Him",
+        "country": "Indonesia",
+        "photo": {
+            "name": "Norman pfp",
+            "url": "https://raw.githubusercontent.com/norman-andrians/norman-andrians/main/assets/images/profile.png",
+            "type": "image/png"
+        },
+        "age": 16,
+        "bio": "Code and art stuff",
+        "roles": [
+            {
+                "name": "High School Student",
+                "type": "student",
+                "position": "Class 11-C Software Engineering",
+                "place": "Wiraswasta High School",
+                "skills": []
+            },
+            {
+                "name": "Digital Artist",
+                "type": "artist",
+                "position": "idk",
+                "place": "Home",
+                "skills": [ "Figma", "Ibis Paint", "Clip Studio Paint", "Krita", "Adobe Photoshop", "Adobe Illustrator", "Blender" ]
+            },
+            {
+                "name": "Fullstack Web Developer",
+                "type": "developer",
+                "position": "Junior",
+                "place": "Home",
+                "skills": [ "HTML", "CSS", "JS", "PHP", "Laravel", "React.js", "Node.js", "Express.js", "MySQL", "MongoDB" ]
+            },
+            {
+                "name": "Game Developer",
+                "type": "developer",
+                "position": "Junior",
+                "place": "Home",
+                "skills": [ "Unity", "Blender", "Adobe Photoshop", "C#" ]
+            }
+        ]
+    },
+    "website": {
+        "name": "Personal Site",
+        "url": "https://normanandrians.com/",
+        "status": "maintenance",
+        "date estimate": "5 Aug 2023"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "type": "social",
+            "url": "https://twitter.com/NormanAndrians"
+        },
+        {
+            "name": "facebook",
+            "type": "social",
+            "url": "https://www.facebook.com/norman.andrians/"
+        },
+        {
+            "name": "instagram",
+            "type": "social",
+            "url": "https://www.instagram.com/normanandrians25/"
+        },
+        {
+            "name": "youtube",
+            "type": "social",
+            "url": "https://www.youtube.com/@normanandrians"
+        },
+        {
+            "name": "tiktok",
+            "type": "social",
+            "url": "https://www.tiktok.com/@norman.andrians25"
+        },
+        {
+            "name": "github",
+            "type": "social",
+            "url": "https://github.com/norman-andrians"
+        },
+        {
+            "name": "whatsapp business",
+            "type": "contact",
+            "url": "https://wa.me/6281322599266"
+        },
+        {
+            "name": "email",
+            "type": "contact",
+            "url": "norman25.na@gmail.com"
+        }
+    ]
+}

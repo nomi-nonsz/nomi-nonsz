@@ -36,6 +36,9 @@ Hi! It's me, Norman Andriansyah aka Norman Andrians. a self-taught 16yo Develope
   <img style="width: 200px;" alt="dancin lain" src="./assets/images/lain-dancing.gif">
   <img style="width: 200px" alt="osaka" src="./assets/images/osaka.gif">
   <img style="width: 200px" alt="osaka daily life" src="./assets/images/osaka2.gif">
+  <img style="width: 200px" alt="osaka idk" src="https://media.tenor.com/_tSOluO4uccAAAAd/azumanga-azumanga-daioh.gif">
+  <img style="width: 200px" alt="osaka headpat" src="https://media.tenor.com/4xy70tz40KoAAAAi/osaka-headpat.gif">
+  <img style="width: 200px" alt="Konata :3" src="https://media.tenor.com/dpcvV06-d68AAAAC/konata-anime.gif">
 </div>
 
 ---

@@ -30,7 +30,7 @@ Hi! It's me, Norman Andriansyah aka Norman Andrians. a self-taught 16yo Develope
 
 ### Quotes
 
-> ## _***"Tired because you simp? Revenge it, make them also more simp than you.."***_
+> ## _***"Tired because some ppl make you simp? Revenge it, make them also more simp than you.."***_
 
 <div style="display: flex; max-width: 100%;">
   <img style="width: 200px;" alt="dancin lain" src="./assets/images/lain-dancing.gif">
@@ -45,4 +45,4 @@ Hi! It's me, Norman Andriansyah aka Norman Andrians. a self-taught 16yo Develope
 
 apologize if there is any text that is less pleasing
 
-follow my [twitter](https://twitter.com/NormanAndrians), i'm always active there
+follow my [facebook](https://www.facebook.com/profile.php?id=100076314820736), i'm always active there

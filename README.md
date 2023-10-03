@@ -26,7 +26,6 @@ Hi! It's me, Norman Andriansyah aka Norman Andrians. a self-taught 16yo Develope
 
 - 🛠 build my own team and studio
 - 🖼 redeveloping a modern UI
-- ⁉ idk, and allat are just empty actions
 
 ### Quotes
 

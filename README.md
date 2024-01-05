@@ -2,46 +2,21 @@
 
 ---
 
-### Summary
+**I'm not a programmer i'm not an artist, i'm just 16yo coder who want to be an artist**
 
-Hi! It's me, Norman Andriansyah aka Norman Andrians. a self-taught 16yo Developer who loves code of art.
-
-### Basic
-
-- 🇮🇩️ i live in Indonesia
-- 💻️ i make web and game
-- 📚️ i'm still in high school
-- 💡 i have 3 years of experience
-
-### Preference
-
-- 🎨️ i love art
-- 🎮️ i love gaming
-- 🎧️ i love phonk music
-- 💀️ i love goofy cringe ahh memes
-- ❤️ i love lain (anime character)
-- 💅️ Azumanga Daioh, Kimetsu No Yaiba, and Serial Experiment Lain are my favorite anime
-
-### Desire
-
-- 🛠 build my own team and studio
-- 🖼 redeveloping a modern UI
-
-### Quotes
-
-> ## _***"Tired because some ppl make you simp? Revenge it, make them also more simp than you.."***_
+Sorry guys, but in this 2024 i lost my confidence
 
 <div style="display: flex; max-width: 100%;">
-  <img style="width: 200px;" alt="dancin lain" src="./assets/images/lain-dancing.gif">
-  <img style="width: 200px" alt="osaka" src="./assets/images/osaka.gif">
-  <img style="width: 200px" alt="osaka daily life" src="./assets/images/osaka2.gif">
-  <img style="width: 200px" alt="osaka idk" src="https://media.tenor.com/_tSOluO4uccAAAAd/azumanga-azumanga-daioh.gif">
-  <img style="width: 200px" alt="osaka headpat" src="https://media.tenor.com/4xy70tz40KoAAAAi/osaka-headpat.gif">
-  <img style="width: 200px" alt="Konata :3" src="https://media.tenor.com/dpcvV06-d68AAAAC/konata-anime.gif">
+  <img style="width: 200px; height: auto;" alt="dancin lain" src="./assets/images/lain-dancing.gif">
+  <img style="width: 200px; height: auto;" alt="osaka" src="./assets/images/osaka.gif">
+  <img style="width: 200px; height: auto;" alt="osaka daily life" src="./assets/images/osaka2.gif">
+  <img style="width: 200px; height: auto;" alt="stupid tomo" src="https://media1.tenor.com/m/6EwnyI3oDNUAAAAC/azumanga-daioh-tomo.gif">
+  <img style="width: 200px; height: auto;" alt="osaka idk" src="https://media.tenor.com/_tSOluO4uccAAAAd/azumanga-azumanga-daioh.gif">
+  <img style="width: 200px; height: auto;" alt="kobeni reaction" src="https://media1.tenor.com/m/6NJB_RZdXEYAAAAd/live-kobeni-reaction-kobeni.gif">
+  <img style="width: 200px; height: auto;" alt="Spining ENA" src="https://media.tenor.com/1BCeG1aTiBAAAAAd/temptation-stairway-ena.gif">
+  <img style="width: 200px; height: auto;" alt="ENA BBQ" src="https://media.tenor.com/vmvO7W2wvfAAAAAC/ena-dream-bbq.gif">
 </div>
 
 ---
 
-apologize if there is any text that is less pleasing
-
-follow my [facebook](https://www.facebook.com/profile.php?id=100076314820736), i'm always active there
+Follow my [facebook](https://www.facebook.com/profile.php?id=100076314820736), i'm always active there

@@ -19,5 +19,3 @@
 [![Other Skills](https://skillicons.dev/icons?i=cpp,cs,figma,pr,ps,unity,godot,blender,lua,arduino&theme=dark)](https://skillicons.dev)
 
 ---
-
-Follow my [facebook](https://www.facebook.com/profile.php?id=100076314820736), i'm always active there

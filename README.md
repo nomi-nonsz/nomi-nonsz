@@ -17,7 +17,7 @@ I'm not a programmer i'm not an artist, i'm not good at everything, i'm just 17y
 
 ### Backends
 
-[![Backend Tools](https://skillicons.dev/icons?i=ts,nodejs,express,nextjs,redis,python,flask,firebase,php,laravel&theme=dark)](https://skillicons.dev)
+[![Backend Tools](https://skillicons.dev/icons?i=ts,nodejs,express,nextjs,remix,python,flask,firebase,php,laravel&theme=dark)](https://skillicons.dev)
 
 ### Databases & ORMs
 
@@ -29,7 +29,7 @@ I'm not a programmer i'm not an artist, i'm not good at everything, i'm just 17y
 
 ### Other
 
-[![Other Skills](https://skillicons.dev/icons?i=cpp,cs,figma,pr,ps,unity,godot,blender,lua,arduino&theme=dark)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=cpp,cs,figma,unity,godot,blender,lua,arduino&theme=dark)](https://skillicons.dev)
 
 Sorry guys, but in this 2024 i lost my confidence
 

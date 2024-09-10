@@ -4,7 +4,7 @@
 
 Don't call me programmer even software developer. Just 17yo coder who want to be an artist, high school student from Indonesia. Love building website, games, and some IoT stuff
 
-[![Fulltech](https://skillicons.dev/icons?i=react,tailwind,express,nextjs,remix,laravel,supabase,prisma,debian&theme=dark)](https://skillicons.dev)
+[![Fulltech](https://skillicons.dev/icons?i=react,tailwind,express,nextjs,remix,flask,laravel,supabase,mysql,prisma,unity,debian&theme=dark)](https://skillicons.dev)
 
 ![Making](https://img.shields.io/badge/_-Goddamn%20Fullstack%20Web%20rn-_?logo=next.js&label=Making&color=blue)
 [![Reading](https://img.shields.io/badge/_-Yotsuba%26!-_?label=Reading&color=green)](https://myanimelist.net/manga/104/Yotsuba_to)

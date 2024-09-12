@@ -6,10 +6,10 @@ Don't call me programmer even software developer. Just 17yo coder who want to be
 
 [![Fulltech](https://skillicons.dev/icons?i=react,tailwind,express,nextjs,remix,flask,laravel,supabase,mysql,prisma,unity,debian&theme=dark)](https://skillicons.dev)
 
-![Making](https://img.shields.io/badge/_-Goddamn%20Fullstack%20Web%20rn-_?logo=next.js&label=Making&color=blue)
+[![Making](https://img.shields.io/badge/_-Goddamn%20Fullstack%20Web%20rn-_?logo=next.js&label=Making&color=blue)](https://www.epicweb.dev/why-i-wont-use-nextjs)
 [![Reading](https://img.shields.io/badge/_-Yotsuba%26!-_?label=Reading&color=green)](https://myanimelist.net/manga/104/Yotsuba_to)
-[![Preparing](https://img.shields.io/badge/_-Unforeseen%20consequences-_?logo=awslambda&label=Perparing&color=purple)](https://store.steampowered.com/app/2093940/vividstasis/)
-[![Listening To 1](https://img.shields.io/badge/_-WE_DONT_TRUST_YOU-_?logo=spotify&logoColor=rgb(30%2C215%2C96)&label=Listening%20To&color=rgb(30%2C215%2C96))](https://future.lnk.to/WEDONTTRUSTYOU)
+[![Preparing](https://img.shields.io/badge/_-Unforeseen%20consequences-_?logo=awslambda&label=Perparing&color=purple)](https://combineoverwiki.net/wiki/Unforeseen_Consequences)
+[![Listening To](https://img.shields.io/badge/_-WE_DONT_TRUST_YOU-_?logo=spotify&logoColor=rgb(30%2C215%2C96)&label=Listening%20To&color=rgb(30%2C215%2C96))](https://future.lnk.to/WEDONTTRUSTYOU)
 
 *not sponsored lol
 
